@@ -1,7 +1,7 @@
 {
-	"name": "<name>",
+	"name": "@jsdsl/trie",
 	"version": "0.1.0",
-	"description": "<desc>",
+	"description": "Tree-based string storage data structure.",
 	"main": "js/main",
 	"types": ".d.ts/main",
 	"scripts": {
@@ -10,15 +10,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/<github_org>/<base_name>.git"
+		"url": "git+https://github.com/jsdsl/trie.git"
 	},
-	"keywords": [],
+	"keywords": [
+		"adt",
+		"data-structure",
+		"trie"
+	],
 	"author": "Trevor Sears <trevorsears.main@gmail.com> (http://trevorsears.io/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/<github_org>/<base_name>/issues"
+		"url": "https://github.com/jsdsl/trie/issues"
 	},
-	"homepage": "https://github.com/<github_org>/<base_name>#readme",
+	"homepage": "https://github.com/jsdsl/trie#readme",
 	"devDependencies": {
 		"typescript": "latest",
 		"@types/jest": "latest",
